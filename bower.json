@@ -1,0 +1,18 @@
+{
+  "name": "sy9876-github-io",
+  "description": "my github home page",
+  "main": "index.js",
+  "authors": [
+    "sy"
+  ],
+  "license": "ISC",
+  "homepage": "https://sy9876.github.io/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
